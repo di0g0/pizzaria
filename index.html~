@@ -45,8 +45,8 @@ td {
 		<div id="header">
 			<div id="menu">
 				<ul>
-					<li><a href="index.html" >Página inicial</a></li>
-					<li class="current_page_item first"><a href="restaurante.html" >O Restaurante</a></li>
+					<li class="current_page_item first"><a href="index.html" >Página inicial</a></li>
+					<li><a href="restaurante.html" >O Restaurante</a></li>
 					<li><a href="cardapio.html">Cardápio</a></li>
 					<li><a href="contato.html">Contato</a></li>
 				</ul>
