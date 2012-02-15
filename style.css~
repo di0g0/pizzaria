@@ -212,7 +212,7 @@ hr {
 	height: 380px;
 	margin: 0 auto;
 	padding-top: 25px;
-	background: #FFFFFF no-repeat center 25px;
+	background: #FFFFFF url(images/img01.jpg) no-repeat center 25px;
 }
 
 #logo h1, #logo p {
