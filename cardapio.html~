@@ -16,7 +16,7 @@
 					<li><a href="index.html" >Página inicial</a></li>
 					<li><a href="restaurante.html" >O Restaurante</a></li>
 					<li class="current_page_item first"><span><a href="cardapio.html" >Cardápio</a></li>
-					<li>><a href="contato.html">Contato</a></li>
+					<li><a href="contato.html">Contato</a></li>
 				</ul>
 			</div>
 			<!-- end #menu -->
@@ -36,7 +36,17 @@
 						</h3>
 
 						<div class="entry">
+							
+
 Cardápio
+
+<table>
+	<tr>
+		<td></td>
+	</tr>
+</table>
+
+
 						</div>	
 
 					</div>

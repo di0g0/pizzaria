@@ -1,0 +1,37 @@
+[
+    {
+        "n":"Banana",
+        "i":"mussarela, banana, canela, e açúcar mascavo",
+        "vp":"R$ 15,90",
+        "vm":"R$ 17,90",
+        "vg":"R$ 25,50"
+    },
+    {
+        "n":"Chocolate",
+        "i":"mussarela e chocolate",
+        "vp":"R$ 15,90",
+        "vm":"R$ 17,90",
+        "vg":"R$ 25,50"
+    },
+    {
+        "n":"Chocolate c/ côco ralado",
+        "i":"mussarela, chocolate e côco ralado",
+        "vp":"R$ 15,90",
+        "vm":"R$ 17,90",
+        "vg":"R$ 25,50"
+    },
+    {
+        "n":"Prestígio",
+        "i":"chocolate, leite condensado e côco ralado",
+        "vp":"R$ 17,90",
+        "vm":"R$ 19,90",
+        "vg":"R$ 27,50"
+    },
+    {
+        "n":"Sorvete de creme",
+        "i":"chocolate, creme de leite e sorvete de creme",
+        "vp":"R$ 17,90",
+        "vm":"R$ 19,90",
+        "vg":"R$ 27,50"
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "n":"Calabresa",
+        "i":"molho, mussarela, calabresa e orégano",
+        "vp":"R$ 13,90",
+        "vm":"R$ 15,90",
+        "vg":"R$ 23,90"
+    },
+    {
+        "n":"Portuguesa",
+        "i":"molho, mussarela, calabresa, presunto, cebola, pimentão e orégano",
+        "vp":"R$ 13,90",
+        "vm":"R$ 15,90",
+        "vg":"R$ 25,50"
+    },
+    {
+        "n":"Presunto",
+        "i":"molho, mussarela, presunto e orégano",
+        "vp":"R$ 13,90",
+        "vm":"R$ 15,90",
+        "vg":"R$ 23,50"
+    },
+    {
+        "n":"Frango c/ Catupiry",
+        "i":"molho, mussarela, frango desfiado, catupiry e orégano",
+        "vp":"R$ 13,90",
+        "vm":"R$ 15,90",
+        "vg":"R$ 25,50"
+    },
+    {
+        "n":"Napolitano",
+        "i":"molho, mussarela, presunto, cebola, tomate e orégano",
+        "vp":"R$ 13,90",
+        "vm":"R$ 15,90",
+        "vg":"R$ 23,50"
+    },
+    {
+        "n":"Vegetariana",
+        "i":"molho, mussarela, palmito, tomate, ervilha, cebola, milho e orégano",
+        "vp":"R$ 13,90",
+        "vm":"R$ 15,90",
+        "vg":"R$ 25,50"
+    },
+    {
+        "n":"Mista",
+        "i":"molho, mussarela, calabresa, presunto, bacon, frango desfiado e orégano",
+        "vp":"R$ 15,90",
+        "vm":"R$ 18,90",
+        "vg":"R$ 28,50"
+    },
+    {
+        "n":"Bacon",
+        "i":"molho, mussarela, bacon e orégano",
+        "vp":"R$ 13,90",
+        "vm":"R$ 15,90",
+        "vg":"R$ 25,50"
+    }
+    ,
+    {
+        "n":"Marguerita",
+        "i":"molho, mussarela, tomate, manjericão e orégano",
+        "vp":"R$ 13,90",
+        "vm":"R$ 15,90",
+        "vg":"R$ 28,50"
+    }
+    ,
+    {
+        "n":"Carne seca c/ catupiry",
+        "i":"molho, mussarela, carne de sol, catupiry e orégano",
+        "vp":"R$ 18,50",
+        "vm":"R$ 22,50",
+        "vg":"R$ 30,00"
+    }
+    ,
+    {
+        "n":"Picante",
+        "i":"molho, mussarela, calabresa, cebola e pimenta calabresa",
+        "vp":"R$ 13,90",
+        "vm":"R$ 15,90",
+        "vg":"R$ 25,50"
+    }
+    ,
+    {
+        "n":"À moda da casa",
+        "i":"molho, mussarela, presunto, bacon, frango desfiado, milho, azeitona e orégano",
+        "vp":"R$ 15,90",
+        "vm":"R$ 18,90",
+        "vg":"R$ 28,50"
+    }
+
+    ,
+    {
+        "n":"Quatro queijos",
+        "i":"molho, mussarela, gorgonzola, parmesão, catupiry e orégano",
+        "vp":"R$ 15,90",
+        "vm":"R$ 18,90",
+        "vg":"R$ 28,50"
+    }
+    ,
+    {
+        "n":"Tomate seco",
+        "i":"molho, mussarela, mussarela de búfala, tomate seco, rúcula e parmesão",
+        "vp":"R$ 18,50",
+        "vm":"R$ 22,50",
+        "vg":"R$ 30,00"
+    }
+    ,
+    {
+        "n":"M&D",
+        "i":"molho, mussarela, strogonoffe de frango e cogumelo",
+        "vp":"R$ 15,90",
+        "vm":"R$ 18,90",
+        "vg":"R$ 28,50"
+    }
+    ,
+    {
+        "n":"Berinjela",
+        "i":"molho, mussarela, berijenla temperada, mussarela de búfala, tomate seco, parmesão e orégano",
+        "vp":"R$ 15,90",
+        "vm":"R$ 18,90",
+        "vg":"R$ 28,50"
+    }
+    ,
+    {
+        "n":"Nozes",
+        "i":"molho, mussarela, gorgonzola e nozes",
+        "vp":"R$ 18,50",
+        "vm":"R$ 22,50",
+        "vg":"R$ 30,00"
+    }
+    ,
+    {
+        "n":"Palmito",
+        "i":"molho, mussarela, palmito, azeitona e orégano",
+        "vp":"R$ 13,90",
+        "vm":"R$ 15,90",
+        "vg":"R$ 25,50"
+    }
+    ,
+    {
+        "n":"California",
+        "i":"molho, mussarela, lombinho, figo, abacaxi e pessêgo",
+        "vp":"R$ 15,90",
+        "vm":"R$ 18,90",
+        "vg":"R$ 28,90"
+    }
+]

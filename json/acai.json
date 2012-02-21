@@ -1,0 +1,26 @@
+[
+    {
+        "n":"Tradicional",
+        "i":"açaí, guaraná e banana",
+        "vp":"R$ 5,00",
+        "vm":"R$ 9,00"
+    },
+    {
+        "n":"Banana",
+        "i":"açaí, guaraná e banana, banana fatia e granola",
+        "vp":"R$ 6,00",
+        "vm":"R$ 10,00"
+    },
+    {
+        "n":"Morango",
+        "i":"açaí, guaraná e banana, morango (polpa) e granola",
+        "vp":"R$ 7,00",
+        "vm":"R$ 12,00"
+    },
+    {
+        "n":"C/ Polpas",
+        "i":"cupuaçu, cacau e graviola",
+        "vp":"R$ 7,00",
+        "vm":"R$ 12,00"
+    }
+]
