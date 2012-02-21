@@ -1,4 +1,6 @@
-$(document).ready(function () {
+function carregarCardapio() {
+
+//$(document).ready(function () {
 
     $.getJSON('json/pizzas_tradicionais.json', function (data) {
         var items = [];
@@ -42,4 +44,6 @@ $(document).ready(function () {
 
     });
 
-});
+//});
+
+}
