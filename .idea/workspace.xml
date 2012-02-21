@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47557398-de73-4289-bdf0-c94447728aae" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -30,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="36" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0829646">
+            <state line="18" column="95" selection-start="667" selection-end="667" vertical-scroll-proportion="0.29867256">
               <folding />
             </state>
           </provider>
@@ -40,6 +38,33 @@
         <entry file="file://$PROJECT_DIR$/contato.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="20" column="87" selection-start="847" selection-end="847" vertical-scroll-proportion="-12.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cardapio.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cardapio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restaurante.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restaurante.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="-5.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_tab.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_tab.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="121" selection-end="392" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
@@ -387,13 +412,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/restaurante.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.14933628">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style/table.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -438,13 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_tab.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="121" selection-end="392" vertical-scroll-proportion="0.0829646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/cardapio.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="31" selection-end="31" vertical-scroll-proportion="0.032327585">
@@ -459,9 +470,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cardapio.html">
+    <entry file="file://$PROJECT_DIR$/restaurante.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="348" column="145" selection-start="8604" selection-end="8604" vertical-scroll-proportion="-8.75">
+        <state line="9" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tab.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="121" selection-end="392" vertical-scroll-proportion="-3.125">
           <folding />
         </state>
       </provider>
@@ -473,9 +491,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cardapio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="36" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0829646">
+        <state line="18" column="95" selection-start="667" selection-end="667" vertical-scroll-proportion="0.29867256">
           <folding />
         </state>
       </provider>
