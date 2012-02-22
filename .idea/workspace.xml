@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47557398-de73-4289-bdf0-c94447728aae" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_tab.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contato.html" afterPath="$PROJECT_DIR$/contato.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurante.html" afterPath="$PROJECT_DIR$/restaurante.html" />
     </list>
     <ignored path="mdpizzaria.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="95" selection-start="667" selection-end="667" vertical-scroll-proportion="0.29867256">
+            <state line="110" column="0" selection-start="4012" selection-end="5071" vertical-scroll-proportion="-25.625">
               <folding />
             </state>
           </provider>
@@ -37,8 +39,15 @@
       <file leaf-file-name="contato.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contato.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="87" selection-start="847" selection-end="847" vertical-scroll-proportion="-12.5">
-              <folding />
+            <state line="36" column="0" selection-start="1155" selection-end="1155" vertical-scroll-proportion="-12.75">
+              <folding>
+                <marker date="1329908404000" expanded="true" signature="152:3512" placeholder="..." />
+                <marker date="1329908404000" expanded="true" signature="460:3504" placeholder="..." />
+                <marker date="1329908404000" expanded="true" signature="479:3496" placeholder="..." />
+                <marker date="1329908404000" expanded="true" signature="1054:3222" placeholder="..." />
+                <marker date="1329908404000" expanded="true" signature="1084:3211" placeholder="..." />
+                <marker date="1329908404000" expanded="true" signature="1217:3099" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,19 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="restaurante.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="restaurante.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/restaurante.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="-5.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_tab.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_tab.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="121" selection-end="392" vertical-scroll-proportion="-3.125">
+            <state line="32" column="52" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.53097343">
               <folding />
             </state>
           </provider>
@@ -83,8 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/contato.html" />
-        <option value="$PROJECT_DIR$/restaurante.html" />
         <option value="$PROJECT_DIR$/json/pizzas.json" />
         <option value="$PROJECT_DIR$/json/pizzas_doces.json" />
         <option value="$PROJECT_DIR$/json/acai.json" />
@@ -93,6 +91,8 @@
         <option value="$PROJECT_DIR$/style/style.css" />
         <option value="$PROJECT_DIR$/cardapio.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contato.html" />
+        <option value="$PROJECT_DIR$/restaurante.html" />
       </list>
     </option>
   </component>
@@ -146,48 +146,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdpizzaria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdpizzaria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdpizzaria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdpizzaria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="json" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdpizzaria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mdpizzaria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -196,7 +154,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
+    <property name="options.lastSelected" value="web.server" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -470,23 +428,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/restaurante.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="-5.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_tab.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="121" selection-end="392" vertical-scroll-proportion="-3.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contato.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="87" selection-start="847" selection-end="847" vertical-scroll-proportion="-12.5">
+        <state line="110" column="0" selection-start="4012" selection-end="5071" vertical-scroll-proportion="-25.625">
           <folding />
         </state>
       </provider>
@@ -498,9 +442,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/contato.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="95" selection-start="667" selection-end="667" vertical-scroll-proportion="0.29867256">
+        <state line="36" column="0" selection-start="1155" selection-end="1155" vertical-scroll-proportion="-12.75">
+          <folding>
+            <marker date="1329908404000" expanded="true" signature="152:3512" placeholder="..." />
+            <marker date="1329908404000" expanded="true" signature="460:3504" placeholder="..." />
+            <marker date="1329908404000" expanded="true" signature="479:3496" placeholder="..." />
+            <marker date="1329908404000" expanded="true" signature="1054:3222" placeholder="..." />
+            <marker date="1329908404000" expanded="true" signature="1084:3211" placeholder="..." />
+            <marker date="1329908404000" expanded="true" signature="1217:3099" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurante.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="52" selection-start="1127" selection-end="1127" vertical-scroll-proportion="0.53097343">
           <folding />
         </state>
       </provider>
