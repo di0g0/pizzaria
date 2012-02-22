@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47557398-de73-4289-bdf0-c94447728aae" name="Default" comment="" />
+    <list default="true" id="47557398-de73-4289-bdf0-c94447728aae" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cardapio.html" afterPath="$PROJECT_DIR$/cardapio.html" />
+    </list>
     <ignored path="mdpizzaria.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,10 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="62" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.6803097">
+            <state line="41" column="62" selection-start="1423" selection-end="1423" vertical-scroll-proportion="-25.625">
               <folding />
             </state>
           </provider>
@@ -40,10 +42,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cardapio.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="cardapio.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cardapio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="80" selection-start="520" selection-end="520" vertical-scroll-proportion="-4.375">
+            <state line="578" column="0" selection-start="14093" selection-end="14093" vertical-scroll-proportion="0.9004425">
               <folding />
             </state>
           </provider>
@@ -52,7 +54,7 @@
       <file leaf-file-name="restaurante.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/restaurante.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="80" selection-start="520" selection-end="520" vertical-scroll-proportion="-4.375">
+            <state line="69" column="0" selection-start="2204" selection-end="2307" vertical-scroll-proportion="-24.375">
               <folding />
             </state>
           </provider>
@@ -434,23 +436,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cardapio.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="80" selection-start="520" selection-end="520" vertical-scroll-proportion="-4.375">
+        <state line="41" column="62" selection-start="1423" selection-end="1423" vertical-scroll-proportion="-25.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/restaurante.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="80" selection-start="520" selection-end="520" vertical-scroll-proportion="-4.375">
+        <state line="69" column="0" selection-start="2204" selection-end="2307" vertical-scroll-proportion="-24.375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/cardapio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="62" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.6803097">
+        <state line="578" column="0" selection-start="14093" selection-end="14093" vertical-scroll-proportion="0.9004425">
           <folding />
         </state>
       </provider>
