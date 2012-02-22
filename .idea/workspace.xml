@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47557398-de73-4289-bdf0-c94447728aae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cardapio.html" afterPath="$PROJECT_DIR$/cardapio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contato.html" afterPath="$PROJECT_DIR$/contato.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurante.html" afterPath="$PROJECT_DIR$/restaurante.html" />
-    </list>
+    <list default="true" id="47557398-de73-4289-bdf0-c94447728aae" name="Default" comment="" />
     <ignored path="mdpizzaria.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,7 +25,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="58" selection-start="654" selection-end="654" vertical-scroll-proportion="0.19911504">
+            <state line="41" column="62" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.6803097">
               <folding />
             </state>
           </provider>
@@ -151,6 +146,17 @@
     <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig" serverName="mdpizzaria" serverId="548aefa0-2c87-4938-b590-1c27e5a8d514">
+    <servers>
+      <server id="548aefa0-2c87-4938-b590-1c27e5a8d514">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -444,7 +450,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="58" selection-start="654" selection-end="654" vertical-scroll-proportion="0.19911504">
+        <state line="41" column="62" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.6803097">
           <folding />
         </state>
       </provider>
