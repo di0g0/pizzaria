@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47557398-de73-4289-bdf0-c94447728aae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/lightbox-btn-close.gif" afterPath="$PROJECT_DIR$/images/lightbox-btn-close.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/lightbox-btn-next.gif" afterPath="$PROJECT_DIR$/images/lightbox-btn-next.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/lightbox-btn-prev.gif" afterPath="$PROJECT_DIR$/images/lightbox-btn-prev.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cardapio.html" afterPath="$PROJECT_DIR$/cardapio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contato.html" afterPath="$PROJECT_DIR$/contato.html" />
     </list>
     <ignored path="mdpizzaria.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,39 +26,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="restaurante.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/restaurante.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="76" selection-start="1927" selection-end="1927" vertical-scroll-proportion="16.0">
-              <folding>
-                <element signature="tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fotos.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fotos.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="81" selection-start="2585" selection-end="2585" vertical-scroll-proportion="0.38189846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contato.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contato.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="55" selection-start="892" selection-end="892" vertical-scroll-proportion="-11.25">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cardapio.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cardapio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="51" selection-start="1502" selection-end="1502" vertical-scroll-proportion="-17.5">
+            <state line="506" column="49" selection-start="12239" selection-end="12239" vertical-scroll-proportion="-3.1785715">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contato.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contato.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="92" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.14580803">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fotos.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fotos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -85,21 +73,21 @@
         <option value="$PROJECT_DIR$/js/cardapio.js" />
         <option value="$PROJECT_DIR$/style/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/contato.html" />
-        <option value="$PROJECT_DIR$/cardapio.html" />
         <option value="$PROJECT_DIR$/js/jquery.lightbox-0.5.pack.js" />
         <option value="$PROJECT_DIR$/js/jquery.lightbox-0.5.min.js" />
         <option value="$PROJECT_DIR$/style/jquery.lightbox-0.5.css" />
         <option value="$PROJECT_DIR$/restaurante.html" />
         <option value="$PROJECT_DIR$/fotos.html" />
+        <option value="$PROJECT_DIR$/cardapio.html" />
+        <option value="$PROJECT_DIR$/contato.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1" />
-    <option name="y" value="-5" />
+    <option name="y" value="30" />
     <option name="width" value="1922" />
-    <option name="height" value="1086" />
+    <option name="height" value="1025" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -135,6 +123,10 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pizzaria">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -155,20 +147,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="web.server" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="PublishConfig" serverName="mdpizzaria" serverId="548aefa0-2c87-4938-b590-1c27e5a8d514">
-    <servers>
-      <server id="548aefa0-2c87-4938-b590-1c27e5a8d514">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
-  </component>
+  <component name="PublishConfig" serverName="mdpizzaria" serverId="548aefa0-2c87-4938-b590-1c27e5a8d514" />
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/js/ui" />
@@ -328,15 +310,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-5" width="1922" height="1086" extended-state="6" />
-    <editor active="false" />
+    <frame x="-1" y="30" width="1922" height="1025" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295099" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1890016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19144385" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -440,69 +422,55 @@
         <state line="199" column="28" selection-start="2323" selection-end="2323" vertical-scroll-proportion="0.22844827" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contato.html">
+    <entry file="file://$PROJECT_DIR$/js/jquery.lightbox-0.5.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="55" selection-start="892" selection-end="892" vertical-scroll-proportion="-11.25">
+        <state line="11" column="155" selection-start="661" selection-end="661" vertical-scroll-proportion="0.17993458" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.lightbox-0.5.pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.cycle.all.latest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="71" selection-start="617" selection-end="617" vertical-scroll-proportion="0.4032258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="16" selection-start="1697" selection-end="1736" vertical-scroll-proportion="0.8278146" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/jquery.lightbox-0.5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="11" selection-start="1025" selection-end="1026" vertical-scroll-proportion="0.5483871" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurante.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="76" selection-start="1927" selection-end="1927" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fotos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cardapio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="51" selection-start="1502" selection-end="1502" vertical-scroll-proportion="-17.5">
+        <state line="506" column="49" selection-start="12239" selection-end="12239" vertical-scroll-proportion="-3.1785715">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.lightbox-0.5.min.js">
+    <entry file="file://$PROJECT_DIR$/contato.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="155" selection-start="661" selection-end="661" vertical-scroll-proportion="0.17993458">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.lightbox-0.5.pack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.cycle.all.latest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="71" selection-start="617" selection-end="617" vertical-scroll-proportion="0.4032258">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="16" selection-start="1697" selection-end="1736" vertical-scroll-proportion="0.8278146">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style/jquery.lightbox-0.5.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="11" selection-start="1025" selection-end="1026" vertical-scroll-proportion="0.5483871">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/restaurante.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="76" selection-start="1927" selection-end="1927" vertical-scroll-proportion="16.0">
-          <folding>
-            <element signature="tag#div#3;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fotos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="81" selection-start="2585" selection-end="2585" vertical-scroll-proportion="0.38189846">
+        <state line="47" column="92" selection-start="1867" selection-end="1867" vertical-scroll-proportion="0.14580803">
           <folding />
         </state>
       </provider>
