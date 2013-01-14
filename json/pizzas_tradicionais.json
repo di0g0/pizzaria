@@ -1,147 +1,194 @@
 [
-    {
-        "n":"Calabresa",
-        "i":"molho, mussarela, calabresa e orégano",
-        "vp":"R$ 13,90",
-        "vm":"R$ 15,90",
-        "vg":"R$ 23,90"
-    },
-    {
-        "n":"Portuguesa",
-        "i":"molho, mussarela, calabresa, presunto, cebola, pimentão e orégano",
-        "vp":"R$ 13,90",
-        "vm":"R$ 15,90",
-        "vg":"R$ 25,50"
-    },
-    {
-        "n":"Presunto",
-        "i":"molho, mussarela, presunto e orégano",
-        "vp":"R$ 13,90",
-        "vm":"R$ 15,90",
-        "vg":"R$ 23,50"
-    },
-    {
-        "n":"Frango c/ Catupiry",
-        "i":"molho, mussarela, frango desfiado, catupiry e orégano",
-        "vp":"R$ 13,90",
-        "vm":"R$ 15,90",
-        "vg":"R$ 25,50"
-    },
-    {
-        "n":"Napolitano",
-        "i":"molho, mussarela, presunto, cebola, tomate e orégano",
-        "vp":"R$ 13,90",
-        "vm":"R$ 15,90",
-        "vg":"R$ 23,50"
-    },
-    {
-        "n":"Vegetariana",
-        "i":"molho, mussarela, palmito, tomate, ervilha, cebola, milho e orégano",
-        "vp":"R$ 13,90",
-        "vm":"R$ 15,90",
-        "vg":"R$ 25,50"
-    },
-    {
-        "n":"Mista",
-        "i":"molho, mussarela, calabresa, presunto, bacon, frango desfiado e orégano",
-        "vp":"R$ 15,90",
-        "vm":"R$ 18,90",
-        "vg":"R$ 28,50"
-    },
-    {
-        "n":"Bacon",
-        "i":"molho, mussarela, bacon e orégano",
-        "vp":"R$ 13,90",
-        "vm":"R$ 15,90",
-        "vg":"R$ 25,50"
-    }
-    ,
-    {
-        "n":"Marguerita",
-        "i":"molho, mussarela, tomate, manjericão e orégano",
-        "vp":"R$ 13,90",
-        "vm":"R$ 15,90",
-        "vg":"R$ 28,50"
-    }
-    ,
-    {
-        "n":"Carne seca c/ catupiry",
-        "i":"molho, mussarela, carne de sol, catupiry e orégano",
-        "vp":"R$ 18,50",
-        "vm":"R$ 22,50",
-        "vg":"R$ 30,00"
-    }
-    ,
-    {
-        "n":"Picante",
-        "i":"molho, mussarela, calabresa, cebola e pimenta calabresa",
-        "vp":"R$ 13,90",
-        "vm":"R$ 15,90",
-        "vg":"R$ 25,50"
-    }
-    ,
-    {
-        "n":"À moda da casa",
-        "i":"molho, mussarela, presunto, bacon, frango desfiado, milho, azeitona e orégano",
-        "vp":"R$ 15,90",
-        "vm":"R$ 18,90",
-        "vg":"R$ 28,50"
-    }
+	{
+		"n": "Mussarela",
+		"i": "molho, mussarela",
+		"vp": "R$ 20,90",
+		"vm": "R$ 24,90",
+		"vg": "R$ 28,90"
+	}, {
+		"n": "Milho",
+		"i": "molho, mussarela, milho, orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 29,90"
+	}, {
+		"n": "Temperada",
+		"i": "molho, mussarela, tomate, pimenta calabresa e orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 23,90",
+		"vg": "R$ 27,90"
+	}, {
+		"n": "Calabresa",
+		"i": "molho, mussarela, calabresa e orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 29,90"
+	}, {
+		"n": "Portuguesa",
+		"i": "molho, mussarela, calabresa, presunto, cebola, pimentão e orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 31,50"
+	}, {
+		"n": "Presunto",
+		"i": "molho, mussarela, presunto e orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 29,90"
+	}, {
+		"n": "Frango c/ Catupiry",
+		"i": "molho, mussarela, frango desfiado, catupiry e orégano",
+		"vp": "R$ 22,50",
+		"vm": "R$ 26,80",
+		"vg": "R$ 33,50"
+	}, {
+		"n": "Delícia",
+		"i": "molho, mussarela de búfala, tomate cereja, alho, parmesão e manjericão",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 32,90"
+	}, {
+		"n": "Italiana",
+		"i": "molho, tomate, mussarela de búfala, tomate seco, parmesão e rúcula",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 31,90"
+	}, {
+		"n": "Atum",
+		"i": "molho, mussarela, tomate, atum, cebola e azeitona preta",
+		"vp": "R$ 20,90",
+		"vm": "R$ 25,50",
+		"vg": "R$ 30,90"
+	}, {
+		"n": "Vegetariana",
+		"i": "molho, mussarela, palmito, tomate, ervilha, cebola, milho e orégano",
+		"vp": "R$ 22,50",
+		"vm": "R$ 26,90",
+		"vg": "R$ 33,90"
+	}, {
+		"n": "Mista",
+		"i": "molho, mussarela, calabresa, presunto, bacon, frango desfiado e orégano",
+		"vp": "R$ 25,50",
+		"vm": "R$ 28,50",
+		"vg": "R$ 35,90"
+	}, {
+		"n": "Bacon",
+		"i": "molho, mussarela, bacon e orégano",
+		"vp": "R$ 21,50",
+		"vm": "R$ 25,50",
+		"vg": "R$ 30,90"
+	}
+	, {
+		"n": "Marguerita",
+		"i": "molho, mussarela, tomate, manjericão e orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,50",
+		"vg": "R$ 29,50"
+	}
+	, {
+		"n": "Carne seca c/ catupiry",
+		"i": "molho, mussarela, carne de sol, catupiry e orégano",
+		"vp": "R$ 25,90",
+		"vm": "R$ 28,90",
+		"vg": "R$ 37,90"
+	}
+	, {
+		"n": "Picante",
+		"i": "molho, mussarela, calabresa, cebola e pimenta calabresa",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 29,90"
+	}
+	, {
+		"n": "À moda da casa",
+		"i": "molho, mussarela, presunto, bacon, frango desfiado, milho, azeitona e orégano",
+		"vp": "R$ 23,90",
+		"vm": "R$ 27,50",
+		"vg": "R$ 31,50"
+	}
 
-    ,
-    {
-        "n":"Quatro queijos",
-        "i":"molho, mussarela, gorgonzola, parmesão, catupiry e orégano",
-        "vp":"R$ 15,90",
-        "vm":"R$ 18,90",
-        "vg":"R$ 28,50"
-    }
-    ,
-    {
-        "n":"Tomate seco",
-        "i":"molho, mussarela, mussarela de búfala, tomate seco, rúcula e parmesão",
-        "vp":"R$ 18,50",
-        "vm":"R$ 22,50",
-        "vg":"R$ 30,00"
-    }
-    ,
-    {
-        "n":"M&D",
-        "i":"molho, mussarela, strogonoffe de frango e cogumelo",
-        "vp":"R$ 15,90",
-        "vm":"R$ 18,90",
-        "vg":"R$ 28,50"
-    }
-    ,
-    {
-        "n":"Berinjela",
-        "i":"molho, mussarela, berijenla temperada, mussarela de búfala, tomate seco, parmesão e orégano",
-        "vp":"R$ 15,90",
-        "vm":"R$ 18,90",
-        "vg":"R$ 28,50"
-    }
-    ,
-    {
-        "n":"Nozes",
-        "i":"molho, mussarela, gorgonzola e nozes",
-        "vp":"R$ 18,50",
-        "vm":"R$ 22,50",
-        "vg":"R$ 30,00"
-    }
-    ,
-    {
-        "n":"Palmito",
-        "i":"molho, mussarela, palmito, azeitona e orégano",
-        "vp":"R$ 13,90",
-        "vm":"R$ 15,90",
-        "vg":"R$ 25,50"
-    }
-    ,
-    {
-        "n":"California",
-        "i":"molho, mussarela, lombinho, figo, abacaxi e pessêgo",
-        "vp":"R$ 15,90",
-        "vm":"R$ 18,90",
-        "vg":"R$ 28,90"
-    }
+	, {
+		"n": "Quatro queijos",
+		"i": "molho, mussarela, gorgonzola, parmesão, catupiry e orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 31,90"
+	}
+	, {
+		"n": "Tomate seco",
+		"i": "molho, mussarela, mussarela de búfala, tomate seco, rúcula e parmesão",
+		"vp": "R$ 23,50",
+		"vm": "R$ 26,90",
+		"vg": "R$ 33,90"
+	}
+	, {
+		"n": "M&D",
+		"i": "molho, mussarela, strogonoffe de frango e cogumelo",
+		"vp": "R$ 21,50",
+		"vm": "R$ 25,50",
+		"vg": "R$ 31,90"
+	}
+	, {
+		"n": "Berinjela",
+		"i": "molho, mussarela, berijenla temperada, mussarela de búfala, tomate seco, parmesão e orégano",
+		"vp": "R$ 22,50",
+		"vm": "R$ 26,90",
+		"vg": "R$ 33,90"
+	}
+	, {
+		"n": "Nozes",
+		"i": "molho, mussarela, gorgonzola e nozes",
+		"vp": "R$ 21,50",
+		"vm": "R$ 25,90",
+		"vg": "R$ 31,90"
+	}
+	, {
+		"n": "Palmito",
+		"i": "molho, mussarela, palmito, azeitona e orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 32,50"
+	}
+	, {
+		"n": "Provolone",
+		"i": "molho, mussarela, tomate, calabresa, provolone ralado e orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 29,50"
+	}
+	, {
+		"n": "Pizza palha",
+		"i": "molho, mussarela, calabresa, ovo e batata palha",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 31,90"
+	}
+	, {
+		"n": "Napolitana",
+		"i": "molho, mussarela, presunto, cebola, tomate, parmesão e orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 29,50"
+	}
+	, {
+		"n": "Lombo",
+		"i": "molho, mussarela, lombo canadense, cebola e orégano",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 29,50"
+	}
+	, {
+		"n": "Alho",
+		"i": "molho, mussarela e alho crocante",
+		"vp": "R$ 21,90",
+		"vm": "R$ 25,90",
+		"vg": "R$ 29,50"
+	}
+	, {
+		"n": "California",
+		"i": "molho, mussarela, lombinho, figo, abacaxi e pessêgo",
+		"vp": "R$ 21,50",
+		"vm": "R$ 25,50",
+		"vg": "R$ 32,50"
+	}
 ]
